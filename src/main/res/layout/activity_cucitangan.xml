@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cuci">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="270dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Usapkan tangan menutupi \nseluruhpermukaan tangan"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="151dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="190dp"
+        app:srcCompat="@drawable/s1" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="156dp"
+        android:layout_height="78dp"
+        android:layout_marginLeft="198dp"
+        android:layout_marginTop="190dp"
+        app:srcCompat="@drawable/s2" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="270dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Gosok dua tangan dan\npunggung tangan."
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="151dp"
+        android:layout_height="78dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="310dp"
+        app:srcCompat="@drawable/s3" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="390dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Bersihkan sela\njari-jari"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="151dp"
+        android:layout_height="78dp"
+        android:layout_marginLeft="198dp"
+        android:layout_marginTop="310dp"
+        app:srcCompat="@drawable/s4" />
+    <TextView
+        android:id="@+id/text4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="390dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Kunci jari bagian dalam\nkedua tangan"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="151dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="425dp"
+        android:layout_marginLeft="35dp"
+        app:srcCompat="@drawable/s5" />
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="500dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Putar-putar ibu jari\nkedua tangan"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="151dp"
+        android:layout_height="78dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="425dp"
+        app:srcCompat="@drawable/s6" />
+
+    <TextView
+        android:id="@+id/text6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="500dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Gosok ujung jari pada\nkedua tangan"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

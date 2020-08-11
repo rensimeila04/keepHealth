@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">keepHealth</string>
+    <string name="Himbauan">Himbauan</string>
+    <string name="cuci">Cuci Tangan</string>
+    <string name="masker">Masker</string>
+    <string name="hidup_sehat">Hidup Sehat</string>
+    <string name="back">kembali</string>
+    <string name="bali"><![CDATA[<-]]></string>
+    <string name="satu">Tutup mulut\n hidung dan\n dagu</string>
+    <string name="dua">Tekan bagian \natas masker\nagar mengikuti\nbentuk hidung</string>
+    <string name="tiga">Lepas masker\nyang telah\ndigunakan\nhanya dengan\nmemegang\ntali</string>
+    <string name="punten">\n\n1. Menjaga pola makan\n\n2. Hindari Stress\n\n3. Minum air putih yang cukup \n\n4. Atur jam tidur dan tidur dengan cukup\n\n5. Jangan lupa olahraga</string>
+</resources>
