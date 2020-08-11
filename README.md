@@ -43,7 +43,7 @@
      Tampilan ini terdiri dari komponen gambar dan text dan menggunakan relative layout
      
 # ===== Tampilan pola hidup ======
-
+![Alt Text](https://github.com/rensimeila04/keepHealth/blob/master/poto/%20(4).jpeg)
    # penjelasan   :
    Berisi cara berpola hidup sehat.
    
