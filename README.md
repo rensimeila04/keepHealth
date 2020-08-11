@@ -53,3 +53,10 @@
 ![Alt Text](https://github.com/rensimeila04/keepHealth/blob/master/poto/7.jpg)
    # penjelasan   :
    Tampilan ini dibuat menggunakan teknik intent implisit sehingga dapat langsung mengirim ke whatsapp
+   
+# Tentang
+semua pada aplikasi ini menggunakan relative layout dan juga menggunakan teknik intent dan intent implicit
+
+# Rensi Meila Yulvinata
+# =======XI RPL 3======
+# ==========34=========
