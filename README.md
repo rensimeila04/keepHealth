@@ -1,6 +1,7 @@
 # ======iHealth=====
 
 # ====== Tampilan Awal =====
+![Alt Text](https://github.com/rensimeila04/keepHealth/blob/master/poto/%20(8).jpg)
 ![Alt Text](https://github.com/rensimeila04/keepHealth/blob/master/poto/%20(1).jpeg)
    
    # penjelasan :
@@ -43,12 +44,12 @@
      Tampilan ini terdiri dari komponen gambar dan text dan menggunakan relative layout
      
 # ===== Tampilan pola hidup ======
-![Alt Text](https://github.com/rensimeila04/keepHealth/blob/master/poto/%20(4).jpeg)
+![Alt Text](https://github.com/rensimeila04/keepHealth/blob/master/poto/%20(2).jpeg)
    # penjelasan   :
    Berisi cara berpola hidup sehat.
    
 # ===== Pesan =====
 ![Alt Text](https://github.com/rensimeila04/keepHealth/blob/master/poto/%20(3).jpeg)
-
+![Alt Text](https://github.com/rensimeila04/keepHealth/blob/master/poto/%20(7).jpg)
    # penjelasan   :
    Tampilan ini dibuat menggunakan teknik intent implisit sehingga dapat langsung mengirim ke whatsapp
